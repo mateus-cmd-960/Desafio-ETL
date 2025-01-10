@@ -13,4 +13,4 @@ Passos dados para o cumprimento do desafio:
   - Converti os Ids em tipo de dados inteiros.
   - Mesclei a tabela Employee e departament para retornar o nome dos departamentos associados aos colaboradores, eliminei as colunas desnecessárias e renomeiei outras colunas.
   - Realizei a mescla dos colaboradores e os respectivos nomes dos gerentes e uni as colunas nome e sobrenome.
-  - e por último realizei a mescla da tabela departament e localização.
+  - E por último realizei a mescla da tabela departament e localização.
